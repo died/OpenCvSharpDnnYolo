@@ -8,4 +8,4 @@ more detail please check blog artile : [[C#] OpenCvSharp DNN with YOLO2](http://
 
 ### result
 
-[img](yolo2.jpg)
+![img](/yolo2.jpg)
